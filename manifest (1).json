@@ -1,0 +1,14 @@
+{
+  "name": "Jarvis",
+  "short_name": "Jarvis",
+  "description": "Voice AI assistant that opens apps, chats and generates images",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050b16",
+  "theme_color": "#050b16",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
